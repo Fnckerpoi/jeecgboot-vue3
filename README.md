@@ -1,32 +1,25 @@
-## Install and use
+## 环境要求
 
-- 技术文档
+- Node.js >= 12
 
-  [http://vue3.jeecg.com](http://vue3.jeecg.com)
-  
-  
-- Get the project code
+## 安装使用
 
-```bash
-git clone https://github.com/jeecg/vue3-jeecg-admin.git
-```
-
-- Installation dependencies
+- 依赖安装
 
 ```bash
-cd vue3-jeecg-admin
+cd vue3-admin-jeecg
 
 yarn install
 
 ```
 
-- run
+- 运行
 
 ```bash
 yarn serve
 ```
 
-- build
+- 构建
 
 ```bash
 yarn build
